@@ -1,0 +1,4 @@
+The Total Distance is: 1.64655e+07 m 
+==============PATH============
+ ---> LAX ---> NRT ---> CAN ---> TAO ---> BKK
+

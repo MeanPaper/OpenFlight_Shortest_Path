@@ -1,0 +1,4 @@
+The Total Distance is: 1.32942e+07 m 
+==============PATH============
+ ---> LAX ---> ICN ---> BKK
+
